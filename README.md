@@ -9,5 +9,6 @@ Creado y editado por [LEONARDO TULIAN](https://www.linkedin.com/in/leonardo-ezeq
 - El verdadero amor por las buenas prácticas
 - Trucos muy loco del profesor 
 - Esto es muy chebere
+- Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.me es un chiste**. Diseñado para ejemplo
